@@ -1,4 +1,4 @@
-# Inventory Manipulation
+# Inventory Manipulation (Per player & Per id)
 Saves and restores a player inventory. Setup with: `function inv:setup`
 
 # Notes
